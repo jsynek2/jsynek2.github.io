@@ -1,0 +1,114 @@
+
+body {
+    margin: 0%;
+    background-color: rgb(163, 118, 208);
+}
+h1{
+    color:rgb(0, 0, 0);
+    border: solid 10px;
+    text-align: center;
+    font-size: 100px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 0%;
+    line-height: 100px;
+    
+}
+
+h2{
+    color:rgb(0, 0, 0);
+    border: solid 8px;
+    text-align: center;
+    font-size: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 0%;
+    line-height: 75px;
+    
+}
+
+#BubbiePics {
+    margin-top: 0%;
+    width: 30%;
+    margin-left: 160px;
+    border: solid 10px;
+    color:darkkhaki
+}
+
+#PrinceCat {
+    width: 100px;
+}
+#PersonBowing {
+    width: 250px;
+}
+.outside {
+    margin-left: 40%;
+}
+
+h5 {
+
+    padding: 10px;
+}
+
+.h3 {
+    margin-left: auto;
+    text-align: center;
+
+}
+.About{
+    text-align: center;
+    color: black;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    border-style: double;
+    border-color: gold;
+    border-width: 0 10px;
+}
+.Hobbies{
+    text-align: center;
+    color: black;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    border-style: double;
+    border-color: gold;
+    border-width: 0 10px;
+
+}
+.BoxInBottom{
+text-align: center;
+}
+.Buttshake{
+    text-align:center;
+    color: black;
+    font-size: 25px;
+
+}
+.email {
+
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    background-color: gold;
+    width: 300px;
+    text-decoration: none;
+    transition-duration: 2s;
+    border-radius: 10%;
+    margin-left: 39%;
+
+}
+.email:hover {
+
+    background-color: gold;
+    border-radius: 70%;
+    
+}
+.email:active {
+
+    color:rgb(102, 102, 246);
+    font-size: 40px;
+
+}
